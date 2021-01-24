@@ -32,5 +32,10 @@ true
 require.main === module
 false
 ````
-
 ### Cycles
+
+## Node.js Multi Threading
+> `child_process`: https://nodejs.org/api/child_process.html
+`spwanSync`
+
+
